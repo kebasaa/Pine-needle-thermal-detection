@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/315071851.svg)](https://zenodo.org/badge/latestdoi/315071851)
 
 # Pine-needle-thermal-detection
 
@@ -22,10 +22,10 @@ The following python packages are required to read the FLIR files:
 
 ## How to Cite
 
-Jonathan D. Muller, Tamir Dingjan. (22 October 2020). Pine-needle-thermal-detection: Tool to detect pine needle-leaves in thermal images. DOI:  (URL:
-<>), Python notebook
+Jonathan D. Muller, Tamir Dingjan. (22 October 2020). Pine-needle-thermal-detection: Tool to detect pine needle-leaves in thermal images. DOI: 10.5281/zenodo.4284621  (URL:
+<https://doi.org/10.5281/zenodo.4284621>), Python notebook
 
-
+[![DOI](https://zenodo.org/badge/315071851.svg)](https://zenodo.org/badge/latestdoi/315071851)
 
 ## License
 
