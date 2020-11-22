@@ -9,7 +9,7 @@ The python notebooks and the data in this project are organised as follows:
    * Raw data: *01_rawdata*, i.e. FLIR images extracted using the _IR-data-extraction_ script (https://github.com/kebasaa/IR-data-extraction) and saved as 64-bit .tif
    * Diagnostics graphs are placed in *02_diagnostics*
    * Output is in *03_processed_data*
-2. **01_detect_needles_v0.1.ipynb**: This creates the diagnostics and output data
+2. **01_detect_needles_v0.1.ipynb**: This creates the diagnostics and output data 
 
 ## Dependencies
 
