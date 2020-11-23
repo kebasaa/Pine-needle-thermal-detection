@@ -13,12 +13,13 @@ The python notebooks and the data in this project are organised as follows:
 
 ## Dependencies
 
-The following python packages are required to read the FLIR files:
+The following python packages are required to read the thermal .tiff files:
 
   - Pandas
   - Numpy
   - Scipy
   - Matplotlib
+  - tifffile
 
 ## How to Cite
 
